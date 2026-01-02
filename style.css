@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    color: black;
+}
+
+/* Header Customaize */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+div {
+    padding: 20px;
+    margin: 15px;
+    text-align: center;
+    background: lightblue;
+    border-radius:300px 20px 200px 20px;
+}
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 10px;
+}
+#skilloption {
+    text-align: left;
+}
